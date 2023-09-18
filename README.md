@@ -3,7 +3,7 @@
 # Thomas Gil
 *Développeur web React*
 
-[Accueil](README.md) - [Projets](projets.md) - [CV]() - [Contact]()
+[Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact]()
 
 ## Presentation
 
