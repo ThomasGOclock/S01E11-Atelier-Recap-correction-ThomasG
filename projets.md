@@ -3,7 +3,7 @@
 # Thomas Gil
 *Développeur web React*
 
-[Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact]()
+[Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](contact.md)
 
 ## Mes projets
 
@@ -16,4 +16,4 @@
 
 ---
 
-© 2023 - Thomas Gil - [Me contacter]()
+© 2023 - Thomas Gil - [Me contacter](contact.md)
